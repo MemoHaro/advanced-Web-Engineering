@@ -1,0 +1,37 @@
+﻿body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   color:black;
+}
+
+h1{
+    text-align:center;
+    font-size:3em;
+    color:red;
+
+}
+h2{
+    font-size:2em;
+    color:red;
+}
+
+form {
+    border: 0.5px solid black;
+    padding: 20px;
+  
+    margin-left: 40%;
+    margin-right:40%;
+    width: 20%;
+}
+
+.output {
+    border: 0.5px solid black;
+    padding: 20px;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top:5px;
+    width: 20%;
+}
+#employeeAdded{
+    font-size:24px;
+    color: red;
+}
